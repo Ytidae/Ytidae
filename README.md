@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ytidae
 - 👀 I’m interested in ... Website
 - 🌱 I’m currently learning ... more
-- 💞️ I’m looking to collaborate on ... URL
+- 💞️ I’m looking to collaborate on ... audience
 - 📫 How to reach me ...08105507944
 
 <!---
